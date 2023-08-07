@@ -1,0 +1,102 @@
+.lift-part{
+margin-left: 15px;
+ color: white; 
+}
+.right-part{
+    margin-right: 25px;
+   
+
+}
+.middle-part{
+    
+    background-color: rgb(25, 135, 213);
+    margin-right: 25px;
+    display: flex;
+    border-left: 20px;
+
+}
+
+.search-icon{
+    height: 24px;
+    width: 22px;
+    background-color: rgb(181, 176, 176);
+    border: 1px;
+    border-style: solid;
+}
+.logo-design{
+ margin-left: 120px;
+}
+
+.text-design{
+    text-align: right;
+    margin-right: 10px;
+    background-color: white;
+  
+    
+}
+.head-1{
+    border-left: 200px;
+    background-color: brown;
+    text-align: right;
+
+   
+}
+
+.market-pic{
+align-items: center;
+    
+}
+
+.contacts{
+    background-color: rgb(25, 135, 213);
+    height: 100px;
+}
+.footer1{
+    background-color: rgb(25, 135, 213);
+    height: 200px;
+}
+.address-1{
+    margin-right: 20px ;
+    
+ 
+}
+.clock-1{
+    margin-left: 20px;
+}
+
+.worktime{
+    margin-left: 15px;
+}
+
+
+ .middle-30 {
+    background-color: rgb(48, 166, 239);
+    font-size: 3rem;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    grid-template-rows: 1fre 1fr 1fr;
+    padding: 50px;
+    color:white;
+    height: auto;
+     display: flex;
+
+
+
+    
+
+    
+    height: 50px;
+    align-items: center;
+
+    position: relative;
+    
+   
+ }
+ .address1{
+    padding: 20px;
+ }
+.sazish200{
+    border-bottom: 0px;
+
+}
